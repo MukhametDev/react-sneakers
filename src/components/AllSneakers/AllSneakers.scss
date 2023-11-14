@@ -1,0 +1,11 @@
+.sneakers {
+  padding: 39px 0px 0px 0px;
+  &__title {
+    color: #000;
+    font-size: 32px;
+    font-weight: 700;
+  }
+  &__row{
+    gap: 40px;
+  }
+}
